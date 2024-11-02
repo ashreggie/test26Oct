@@ -1,6 +1,6 @@
 # Bibliometric Data Analyzer
 
-This Python script provides a web-based interface for analyzing bibliometric data from Excel files. It uses Gradio to create a simple UI for file upload and download. I want to add more remarks.
+This Python script provides a web-based interface for analyzing bibliometric data from Excel files. It uses Gradio to create a simple UI for file upload and download. The code is adapted from a Jupyter notebook and runs on Windows, Mac, and Linux environments. I want to add more remarks.
 
 ## Description
 
